@@ -1,0 +1,1 @@
+deskripsi API, cara install (npm install), cara menjalankan migration, cara menjalankan server (node server.js), dan daftar endpoint beserta contoh request-nya.

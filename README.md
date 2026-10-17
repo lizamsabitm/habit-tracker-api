@@ -5,6 +5,8 @@
 4. (128) ACHMAD AMIRUL MU'MININ
 5. (115) FARHAN PUTRA PRATAMA
 
+*Script migration db bisa dilihat di habit-tracker-api/migrations/
+
 # Habit Tracker API
 
 REST API untuk aplikasi **Habit Tracker** (tugas Mobile Programming, Flutter).
